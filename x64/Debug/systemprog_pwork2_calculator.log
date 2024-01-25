@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Влад\source\repos\systemprog_pwork2_calculator\systemprog_pwork2_calculator\Source.cpp(21,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Влад\source\repos\systemprog_pwork2_calculator\systemprog_pwork2_calculator\Source.cpp(31,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Влад\source\repos\systemprog_pwork2_calculator\systemprog_pwork2_calculator\Source.cpp(41,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Влад\source\repos\systemprog_pwork2_calculator\systemprog_pwork2_calculator\Source.cpp(85,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Влад\source\repos\systemprog_pwork2_calculator\systemprog_pwork2_calculator\Source.cpp(13,25): warning C4101: d: неиспользованная локальная переменная
+  systemprog_pwork2_calculator.vcxproj -> C:\Users\Влад\source\repos\systemprog_pwork2_calculator\x64\Debug\systemprog_pwork2_calculator.exe
